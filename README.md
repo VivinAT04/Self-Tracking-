@@ -11,3 +11,4 @@ Tues-March 17 and 18
 
 
 THESE DAYS ARE FOR PREPARING A NEW SKILLL, AND IM TRYING TO BE ACTIVE ALSO.
+Metting on tuesday for the prototyping - international project 
