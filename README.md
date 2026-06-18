@@ -1,14 +1,48 @@
-# Self-Tracking-
+# Self Tracking
 
-This is a repo which will be used as a tracker.
+A personal repository used to track learning progress, project work, study activities, and career development.
 
-Sun-March 15:
-  I cant work today due to Part-Time shift and preparation for upcoming examinations.e 
-Mon - March 16:
-   Came from my night shift and priortising sleep but still  gone throught project(going to colloaboirate with Professor) and exploring modern  Tech-Stacks
-Tues-March 17 and 18
-:working on course module and exam
+## Purpose
 
+This repository serves as a simple journal for:
 
-THESE DAYS ARE FOR PREPARING A NEW SKILLL, AND IM TRYING TO BE ACTIVE ALSO.
-Metting on tuesday for the prototyping - international project 
+- Daily progress tracking
+- Study and exam preparation
+- Project development updates
+- Skill-building activities
+- Professional growth
+
+## Progress Log
+
+### March 15
+
+- Unable to work due to part-time shift
+- Focused on examination preparation
+
+### March 16
+
+- Returned from night shift
+- Prioritised rest and recovery
+- Reviewed project opportunities
+- Explored modern technology stacks
+
+### March 17–18
+
+- Worked on coursework and exam preparation
+- Continued technical learning
+- Prepared for international prototyping activities
+
+## Current Focus
+
+- MSc coursework
+- Backend engineering
+- Open-source contributions
+- System design
+- Cloud technologies
+
+## Future Improvements
+
+- Weekly summaries
+- Monthly goals
+- Learning milestones
+- Project tracking dashboard
